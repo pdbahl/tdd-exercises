@@ -12,4 +12,5 @@ describe('a fahrenheit2celsius feature', () => {
   it('fahrenheit2celsius of 32 is 0', () => {
     fahrenheit2celsius(32).should.equal(0);
   });
+  
 });
